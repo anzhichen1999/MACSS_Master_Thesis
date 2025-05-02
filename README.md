@@ -25,4 +25,4 @@ This repository contains the code and data associated with the MA thesis submitt
   First 1000 processed results from semantic analysis of street view imagery for green space entrances.
 
 - `SVI_Socioeconomic.csv`  
-  County-level Social Vulnerability Index (SVI) scores for socioeconomic analysis
+  County-level Social Vulnerability Index scores for socioeconomic analysis
